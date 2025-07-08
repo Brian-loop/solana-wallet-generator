@@ -32,5 +32,5 @@ It uses a combination of threads and processes to fully utilize CPU cores.
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/<your-username>/solana-wallet-generator.git
+   
    cd solana-wallet-generator
